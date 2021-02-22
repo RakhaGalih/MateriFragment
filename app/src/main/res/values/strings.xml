@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MateriFragment</string>
+    <string name="show_fragment_1">SHOW FRAGMENT 1</string>
+    <string name="show_fragment_2">SHOW FRAGMENT 2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_second">Second Fragment</string>
+</resources>
