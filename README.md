@@ -41,12 +41,20 @@ komponen tampillan aplikasi menjadi fleksibel dan dapat digunakan kembali ( reus
 
 ### Screenshot
 
-> Page 1 (Output)
+> Main Activity
 > 
-> ![int1](https://user-images.githubusercontent.com/54633534/108662387-c75ad280-7500-11eb-974f-bf7b90cc1c5a.jpg)
+> ![frm](https://user-images.githubusercontent.com/54633534/109088042-36bf0500-7741-11eb-9e94-7e45738bfa08.jpg)
 
-> page 2 (Input)
+> Fragment 1
 > 
-> ![int2](https://user-images.githubusercontent.com/54633534/108662425-df325680-7500-11eb-9514-49c6fb753914.jpg)
+> ![frf](https://user-images.githubusercontent.com/54633534/109088038-36266e80-7741-11eb-9f24-1a5d0ba0ef96.jpg)
+
+> Fragment 2
+> 
+> ![frs](https://user-images.githubusercontent.com/54633534/109088037-358dd800-7741-11eb-8efd-fe165c2df00c.jpg)
+
+> Output
+> 
+> ![fri](https://user-images.githubusercontent.com/54633534/109088041-36bf0500-7741-11eb-940a-a42406375ca4.jpg)
 
 ### Sekian Terima Kasih :)
