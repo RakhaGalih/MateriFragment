@@ -9,6 +9,21 @@ komponen tampillan aplikasi menjadi fleksibel dan dapat digunakan kembali ( reus
 
 > Fragment juga bisa disebut sub nya activity, satu activity bisa memiliki lebih dari satu fragment.
 
+### Pembahasan Projek
+> Fragment di projek ini sendiri merupakan komponen dapat diubah. komponen fragment dipasang ke dalam sebuah frame layout lalu dapat diganti dengan menggunakan button yang berada di bawah.
+
+# Pembahasan Soal
+##  Penjelasan Fragment
+### Definisi
+> Fragment adalah komponen yang memiliki fungsi untuk menampilkan antarmuka ke
+pengguna melalui activity dengan memiliki layout xml sendiri.
+
+### Tujuan
+> Fragment digunakan agar
+komponen tampillan aplikasi menjadi fleksibel dan dapat digunakan kembali ( reusable). 
+
+
+
 ### Screenshot
 
 > Page 1 (Output)
