@@ -53,8 +53,4 @@ komponen tampillan aplikasi menjadi fleksibel dan dapat digunakan kembali ( reus
 > 
 > ![frs](https://user-images.githubusercontent.com/54633534/109088037-358dd800-7741-11eb-8efd-fe165c2df00c.jpg)
 
-> Output
-> 
-> ![fri](https://user-images.githubusercontent.com/54633534/109088041-36bf0500-7741-11eb-940a-a42406375ca4.jpg)
-
 ### Sekian Terima Kasih :)
