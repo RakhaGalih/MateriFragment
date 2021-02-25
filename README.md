@@ -23,6 +23,10 @@ pengguna melalui activity dengan memiliki layout xml sendiri.
 komponen tampillan aplikasi menjadi fleksibel dan dapat digunakan kembali ( reusable). 
 
 
+##  Penjelasan LifeCycle Fragment
+> ![fl](https://user-images.githubusercontent.com/54633534/109086111-8b608100-773d-11eb-86ea-3e6e22ab8f76.jpg)
+
+
 
 ### Screenshot
 
